@@ -5,9 +5,11 @@ titles:
   zh-Hans : &ZH_HANS  Dubbo
   # @end locale config
 key: page-about
+sidebar:
+  nav: dubbo
 ---
 
-## Dubbo
+## 1.Dubbo
 
 - 123
 - 123

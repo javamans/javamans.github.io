@@ -116,7 +116,15 @@ header:
     url: /about.html
    
 
-
+dubbo:
+  - title: Dubbo教程
+    children:
+      - title: 1.Dubbo的基础配置使用
+        url: https://javamans.github.io/2020/01/14/dubbo.html
+      - title: 2.Dubbo的功能
+        url: https://javamans.github.io/2020/01/16/dubbo.html
+      - title: 3.Dubbo的源码
+        url: https://javamans.github.io/2020/01/18/dubbo.html
     
 
     
