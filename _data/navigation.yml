@@ -119,9 +119,9 @@ header:
 dubbo:
   - title: Dubbo教程
     children:
-      - title: 1.Dubbo的基础配置使用
+      - title: 1.Dubbo的基础配置
         url: https://javamans.github.io/2020/01/14/dubbo.html
-      - title: 2.Dubbo的功能
+      - title: 2.Dubbo的示例
         url: https://javamans.github.io/2020/01/16/dubbo.html
       - title: 3.Dubbo的源码
         url: https://javamans.github.io/2020/01/18/dubbo.html

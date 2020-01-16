@@ -9,8 +9,7 @@ sidebar:
   nav: dubbo
 ---
 
-## 1.Dubbo
+### Dubbo的基础配置
 
-- 123
-- 123
+### Dubbo的示例
 
