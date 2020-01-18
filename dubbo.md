@@ -19,7 +19,7 @@ Dubbo主要功能包括高性能NIO通讯及协议集成，服务动态寻址与
 
 ### Dubbo结构及功能
 
-![Dubbo结构](/img/dubbo/Dubbo结构)
+![Dubbo结构](/img/dubbo/Dubbo结构.png)
 
 - container负责启动、加载、运行provider
 - provider启动时，向registry注册自己的服务
@@ -30,5 +30,5 @@ Dubbo主要功能包括高性能NIO通讯及协议集成，服务动态寻址与
 
 ### Dubbo标签
 
-![Dubbo标签](/img/dubbo/Dubbo标签)
+![Dubbo标签](/img/dubbo/Dubbo标签.png)
 
