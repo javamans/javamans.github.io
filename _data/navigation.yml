@@ -125,6 +125,16 @@ dubbo:
         url: https://javamans.github.io/2020/01/16/dubbo.html
       - title: 3.Dubbo的源码
         url: https://javamans.github.io/2020/01/18/dubbo.html
+        
+spring:
+  - title: Spring源码分析
+    children:
+      - title: 1.Spring容器加载方式和XML解析流程
+        url: https://javamans.github.io/2020/01/01/spring.html
+      - title: 2.Spring源码中Beandefination对象
+        url: https://javamans.github.io/2020/01/02/spring.html
+      - title: 3.Spring源码中bean的实例化过程
+        url: https://javamans.github.io/2020/01/03/spring.html
     
 
     
