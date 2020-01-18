@@ -30,11 +30,11 @@ Dubbo主要功能包括高性能NIO通讯及协议集成，服务动态寻址与
 
 主要标签：
 
-- <dubbo:application />：应用信息配置，对应配置类：` org.apache.dubbo.config.ApplicationConfig `
-- <dubbo:protocol />：服务提供者协议配置，对应配置类：` org.apache.dubbo.config.ProtocolConfig `
-- <dubbo:registry />：注册中心配置，对应的配置类：`org.apache.dubbo.config.RegistryConfig`
-- <dubbo:provider />： 服务提供者缺省值配置，对应的配置类： `org.apache.dubbo.config.ProviderConfig` 
-- <dubbo:consumer />： 服务消费者缺省值配置，配置类： `org.apache.dubbo.config.ConsumerConfig` 
-- <dubbo:service />： 服务提供者暴露服务配置，对应的配置类：`org.apache.dubbo.config.ServiceConfig` 
-- <dubbo:reference />： 服务消费者引用服务配置，对应的配置类： `org.apache.dubbo.config.ReferenceConfig` 
+- <dubbo:application >：应用信息配置，对应配置类：` org.apache.dubbo.config.ApplicationConfig `
+- <dubbo:protocol >：服务提供者协议配置，对应配置类：` org.apache.dubbo.config.ProtocolConfig `
+- <dubbo:registry >：注册中心配置，对应的配置类：`org.apache.dubbo.config.RegistryConfig`
+- <dubbo:provider >： 服务提供者缺省值配置，对应的配置类： `org.apache.dubbo.config.ProviderConfig` 
+- <dubbo:consumer >： 服务消费者缺省值配置，配置类： `org.apache.dubbo.config.ConsumerConfig` 
+- <dubbo:service >： 服务提供者暴露服务配置，对应的配置类：`org.apache.dubbo.config.ServiceConfig` 
+- <dubbo:reference >： 服务消费者引用服务配置，对应的配置类： `org.apache.dubbo.config.ReferenceConfig` 
 
