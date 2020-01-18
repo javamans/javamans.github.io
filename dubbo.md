@@ -19,6 +19,8 @@ Dubbo主要功能包括高性能NIO通讯及协议集成，服务动态寻址与
 
 ### Dubbo结构及功能
 
+![Dubbo结构](/img/dubbo/Dubbo结构)
+
 - container负责启动、加载、运行provider
 - provider启动时，向registry注册自己的服务
 - consumer启动时，向registry订阅自己的服务
@@ -28,13 +30,5 @@ Dubbo主要功能包括高性能NIO通讯及协议集成，服务动态寻址与
 
 ### Dubbo标签
 
-主要标签：
-
-- <dubbo:application >：应用信息配置，对应配置类：` org.apache.dubbo.config.ApplicationConfig `
-- <dubbo:protocol >：服务提供者协议配置，对应配置类：` org.apache.dubbo.config.ProtocolConfig `
-- <dubbo:registry >：注册中心配置，对应的配置类：`org.apache.dubbo.config.RegistryConfig`
-- <dubbo:provider >： 服务提供者缺省值配置，对应的配置类： `org.apache.dubbo.config.ProviderConfig` 
-- <dubbo:consumer >： 服务消费者缺省值配置，配置类： `org.apache.dubbo.config.ConsumerConfig` 
-- <dubbo:service >： 服务提供者暴露服务配置，对应的配置类：`org.apache.dubbo.config.ServiceConfig` 
-- <dubbo:reference >： 服务消费者引用服务配置，对应的配置类： `org.apache.dubbo.config.ReferenceConfig` 
+![Dubbo标签](/img/dubbo/Dubbo标签)
 
