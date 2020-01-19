@@ -131,19 +131,8 @@ spring:
     children:
       - title: 1.Spring容器加载方式和XML解析流程
         url: https://javamans.github.io/2020/01/01/spring.html
-      - title: 2.Spring源码中Beandefination对象
+      - title: 2.Spring源码中Beandefinition对象
         url: https://javamans.github.io/2020/01/02/spring.html
       - title: 3.Spring源码中bean的实例化过程
         url: https://javamans.github.io/2020/01/03/spring.html
     
-
-    
-docs-zh:
-  - title:      导航示例
-    children:
-      - title: Welcome
-        url: https://javamans.github.io/2018/07/01/welcome.html
-      - title: Post with Header Image
-        url: https://javamans.github.io/2018/06/01/header-image.html
-      - title: 博客地址
-        url: https://gaochaojin.github.io 
