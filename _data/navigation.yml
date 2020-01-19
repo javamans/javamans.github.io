@@ -137,3 +137,8 @@ spring:
         url: https://javamans.github.io/2020/01/03/spring.html
       - title: 4.Spring源码中自定义标签的解析
         url: https://javamans.github.io/2020/01/04/spring.html
+      - title: 5.Spring源码中BeanDefinitionRegistryPostProcessor接口
+        url: https://javamans.github.io/2020/01/05/spring.html
+      - title: 6.Spring源码中BeanPostProcessor接口
+        url: https://javamans.github.io/2020/01/06/spring.html
+        
