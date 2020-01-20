@@ -123,7 +123,7 @@ dubbo:
         url: https://javamans.github.io/2020/01/14/dubbo.html
       - title: 2.Dubbo的示例
         url: https://javamans.github.io/2020/01/16/dubbo.html
-      - title: 3.Dubbo的源码
+      - title: 3.Dubbo SPI机制原理
         url: https://javamans.github.io/2020/01/18/dubbo.html
         
 spring:
