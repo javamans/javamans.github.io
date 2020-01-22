@@ -141,4 +141,8 @@ spring:
         url: https://javamans.github.io/2020/01/05/spring.html
       - title: 6.Spring源码中BeanPostProcessor接口
         url: https://javamans.github.io/2020/01/06/spring.html
+      - title: 7.Spring源码中Bean实例化过程
+        url: https://javamans.github.io/2020/01/07/spring.html
+      - title: 8.Spring源码中createBean方法
+        url: https://javamans.github.io/2020/01/08/spring.html
         
