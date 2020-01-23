@@ -149,5 +149,6 @@ spring:
         url: https://javamans.github.io/2020/01/09/spring.html
       - title: 10.Spring源码对类中注解的装配过程
         url: https://javamans.github.io/2020/01/10/spring.html
-        
+      - title: 11.Spring源码中依赖注入populateBean
+        url: https://javamans.github.io/2020/01/11/spring.html    
         
