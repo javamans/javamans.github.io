@@ -147,5 +147,7 @@ spring:
         url: https://javamans.github.io/2020/01/08/spring.html
       - title: 9.Spring源码中Bean实例化核心方法createBeanInstance
         url: https://javamans.github.io/2020/01/09/spring.html
+      - title: 10.Spring源码对类中注解的装配过程
+        url: https://javamans.github.io/2020/01/10/spring.html
         
         
