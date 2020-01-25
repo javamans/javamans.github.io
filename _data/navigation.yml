@@ -153,6 +153,11 @@ spring:
         url: https://javamans.github.io/2020/01/11/spring.html  
       - title: 12.Spring源码中bean实例化后的操作initializeBean 
         url: https://javamans.github.io/2020/01/12/spring.html  
+      - title: 13.Spring源码中注册Bean销毁时的类DisposableBeanAdapter 
+        url: https://javamans.github.io/2020/01/13/spring.html 
+        
+        
+        
 
        
         
