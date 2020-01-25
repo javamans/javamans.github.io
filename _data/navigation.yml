@@ -155,6 +155,10 @@ spring:
         url: https://javamans.github.io/2020/01/12/spring.html  
       - title: 13.Spring源码中注册Bean销毁时的类DisposableBeanAdapter 
         url: https://javamans.github.io/2020/01/13/spring.html 
+      - title: 14.Spring循环依赖
+        url: https://javamans.github.io/2020/01/14/spring.html 
+      - title: 15.Spring源码中BeanPostProcessor接口的理解
+        url: https://javamans.github.io/2020/01/14/spring.html 
         
         
         
