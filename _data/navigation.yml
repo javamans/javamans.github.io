@@ -158,7 +158,9 @@ spring:
       - title: 14.Spring循环依赖
         url: https://javamans.github.io/2020/01/14/spring.html 
       - title: 15.Spring源码中BeanPostProcessor接口的理解
-        url: https://javamans.github.io/2020/01/14/spring.html 
+        url: https://javamans.github.io/2020/01/15/spring.html 
+      - title: 16.Spring源码中AOP入口
+        url: https://javamans.github.io/2020/01/16/spring.html 
         
         
         
