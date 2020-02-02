@@ -161,6 +161,8 @@ spring:
         url: https://javamans.github.io/2020/01/15/spring.html 
       - title: 16.Spring源码中AOP入口
         url: https://javamans.github.io/2020/01/16/spring.html 
+      - title: 17.Spring源码中Bean是否生成代理
+        url: https://javamans.github.io/2020/01/17/spring.html 
         
         
         
