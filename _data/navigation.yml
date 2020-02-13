@@ -127,6 +127,8 @@ dubbo:
         url: https://javamans.github.io/2020/01/18/dubbo.html
       - title: 4.Dubbo SPI源码分析
         url: https://javamans.github.io/2020/01/19/dubbo.html
+      - title: 5.Dubbo 自适应扩展源码分析
+        url: https://javamans.github.io/2020/01/20/dubbo.html
         
 spring:
   - title: Spring源码分析
