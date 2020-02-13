@@ -125,6 +125,8 @@ dubbo:
         url: https://javamans.github.io/2020/01/16/dubbo.html
       - title: 3.Dubbo SPI机制原理
         url: https://javamans.github.io/2020/01/18/dubbo.html
+      - title: 4.Dubbo SPI源码分析
+        url: https://javamans.github.io/2020/01/19/dubbo.html
         
 spring:
   - title: Spring源码分析
