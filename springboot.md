@@ -5,6 +5,8 @@ titles:
   zh-Hans : &ZH_HANS  Spring Boot
   # @end locale config
 key: page-about
+sidebar:
+  nav: springboot
 ---
 
 ## Spring Boot
