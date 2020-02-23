@@ -170,6 +170,35 @@ spring:
       - title: 18.Spring源码中代理类的创建以及调用
         url: https://javamans.github.io/2020/01/18/spring.html 
         
+springboot:
+  - title: springboot的使用
+    children:
+      - title: 1.springboot整合druid
+        url: https://javamans.github.io/2020/02/01/springboot.html
+      - title: 2.springboot整合mybatis
+        url: https://javamans.github.io/2020/02/02/springboot.html
+      - title: 3.springboot整合jpa
+        url: https://javamans.github.io/2020/02/03/springboot.html
+      - title: 4.springboot整合atomikos
+        url: https://javamans.github.io/2020/02/04/springboot.html
+      - title: 5.springboot整合redis
+        url: https://javamans.github.io/2020/02/05/springboot.html
+      - title: 6.springboot整合mongodb
+        url: https://javamans.github.io/2020/02/06/springboot.html
+      - title: 7.springboot整合swagger2
+        url: https://javamans.github.io/2020/02/07/springboot.html
+      - title: 8.springboot整合actuator
+        url: https://javamans.github.io/2020/02/08/springboot.html
+      - title: 9.springboot整合rabbitmq
+        url: https://javamans.github.io/2020/02/09/springboot.html
+  - title: springboot源码分析
+    children:
+      - title: 1.springboot启动源码
+        url: https://javamans.github.io/2020/02/10/springboot.html
+      - title: 2.springboot自动配置源码
+        url: https://javamans.github.io/2020/02/11/springboot.html
+        
+        
         
         
         
