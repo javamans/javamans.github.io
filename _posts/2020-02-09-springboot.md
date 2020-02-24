@@ -114,6 +114,7 @@ public class MessageListener {
 
 本整合实例模拟基于支付宝向余额宝转账功能，其中还包含分布式事务的解决方案
 
-支付宝工程链接：https://github.com/gaochaojin/alipay-springboot.git
+支付宝工程链接：[https://github.com/gaochaojin/alipay-springboot.git](https://github.com/gaochaojin/alipay-springboot.git)
 
-余额宝工程链接：https://github.com/gaochaojin/balance-springboot.git
+余额宝工程链接：[https://github.com/gaochaojin/balance-springboot.git](https://github.com/gaochaojin/balance-springboot.git)
+
