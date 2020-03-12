@@ -198,6 +198,12 @@ springboot:
       - title: 2.springboot自动配置源码
         url: https://javamans.github.io/2020/02/11/springboot.html
         
+springcloud:
+  - title: springcloud的使用
+    children:
+      - title: 1.springcloud注册中心eureka的搭建
+        url: https://javamans.github.io/2020/03/01/springcloud.html
+        
         
         
         
