@@ -203,6 +203,8 @@ springcloud:
     children:
       - title: 1.springcloud注册中心eureka的搭建
         url: https://javamans.github.io/2020/03/01/springcloud.html
+      - title: 2.springcloud组件ribbon的使用
+        url: https://javamans.github.io/2020/03/02/springcloud.html
         
         
         
