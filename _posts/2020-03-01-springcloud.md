@@ -300,3 +300,12 @@ java -jar springcloud-eureka.jar -Dspring.profiles.active=8761
 java -jar springcloud-eureka.jar -Dspring.profiles.active=8762
 ```
 
+#### eureka服务端的配置
+
+`bootstrap.properties`
+
+```properties
+# Eureka客户端配置
+eureka.client.serviceUrl.defaultZone=http://admin:admin@Eureka8761:8761/eureka/,http://admin:admin@Eureka8762:8762/eureka/
+```
+
